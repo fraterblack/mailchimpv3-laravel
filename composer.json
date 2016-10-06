@@ -1,0 +1,14 @@
+{
+  "name": "fraterblack/mailchimpv3-laravel",
+  "description": "A minimal service provider to set up and use the Mailchimp Api v3 PHP library in Laravel 5.*",
+  "license": "MIT",
+  "require": {
+    "laravel/framework": "5.0 - 5.3",
+    "drewm/mailchimp-api" : "^2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fraterblack\\Mailchimp\\": "src/"
+    }
+  }
+}
