@@ -1,7 +1,7 @@
 # fraterblack/mailchimpv3-laravel
 A minimal service provider to set up and use the Mailchimp APi v3 PHP library in Laravel v5.*
 
-This service provider use Mailchimp API https://github.com/drewm/mailchimp-api, a super-simple, minimum abstraction Mailchimp API v3 wrapper, in PHP.
+This service provider use Mailchimp API https://github.com/drewm/mailchimp-api. A super-simple, minimum abstraction Mailchimp API v3 wrapper, in PHP.
 
 ## Installation
 You can install using Composer:
@@ -87,8 +87,11 @@ class NewsletterManager
 ```
 
 For more examples of usage:
+
 MailChimp API - https://github.com/drewm/mailchimp-api
+
 Mailchimp V3 Documentation - http://developer.mailchimp.com/documentation/mailchimp
 
 This package is based on:
+
 Based on https://github.com/skovmand/mailchimp-laravel
